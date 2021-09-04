@@ -1,5 +1,10 @@
 ### Hi, you misterious user! 👋 I'm Pablo! 
-
+- 🔭 I’m currently working on Web Development 
+- 🌱 I’m currently learning Native Android
+- 👯 I’m looking to collaborate on Game Develop
+- 📫 How to reach me: [pablotardio](mailto:pablotv30@gmail.com) [:email:]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like "empanadas". Hmm...is that a fun fact?
 <!--
 **pablotardio/pablotardio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
