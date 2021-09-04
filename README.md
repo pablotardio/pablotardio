@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -  😄 Pronouns: ...
 -  ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, you misterious user!👋 I'm Pablo</h1>
+<h1 align="center">Hi, you mysterious user!👋 I'm Pablo</h1>
 <h3 align="center">A Developer that likes learning! from Bolivia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablotardio&label=Profile%20views+😄&color=008a09&style=flat-square" alt="pablotardio" /> </p>
