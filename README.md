@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Dart-0981d6?style=for-the-badge&logo=dart&logoColor=white" height="25">
 
-
 <br>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="25">
 <!-- <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25"> -->
@@ -104,22 +103,10 @@ Here are some ideas to get you started:
 <img alt="Figma" src="https://img.shields.io/badge/Figma-e03154.svg?style=for-the-badge&logo=figma&logoColor=white" height="25"/>
 <img  src="https://img.shields.io/badge/Framer-000000.svg?style=for-the-badge&logo=framer&logoColor=blue" height="25"/>
 
-
 </p>
-
-
-
-
-
-
 
 <!-- Some credit for badges to https://github.com/devded/devded/blob/master/README.md -->
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablotardio&show_icons=true&count_private=true&theme=dark&title_color=fff5f5&text_color=ffffff&bg_color=DEG,660707,210000&locale=en" alt="pablotardio" /></p>
 
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablotardio&show_icons=true&count_private=true&theme=dark&title_color=fff5f5&text_color=ffffff&bg_color=DEG,660707,210000&locale=en" alt="pablotardio" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pablotardio&theme=dark" alt="pablotardio" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pablotardio&theme=dark" alt="pablotardio" /></p>
