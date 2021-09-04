@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, you misterious user!👋 I'm Pablo</h1>
 <h3 align="center">A Developer that likes learning! from Bolivia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pablotardio&label=Profile%20views+😄&color=31c49b&style=flat-square" alt="pablotardio" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pablotardio&label=Profile%20views+😄&color=008a09&style=flat-square" alt="pablotardio" /> </p>
 
 -  🔭 I’m currently working on **Web Development**
 
