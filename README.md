@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning Native Android
 - 👯 I’m looking to collaborate on Game Develop
-- 📫 How to reach me: [pablotardio](mailto:pablotv30@gmail.com) [:email:]
+- 📫 How to reach me: [pablotardio](mailto:pablotv30@gmail.com) :email:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like "empanadas". Hmm...is that a fun fact?
 <!--
