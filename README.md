@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Game Development**
 
-- 📫 How to reach me **pablotv30@gmail.com**
+- 📫 How to reach me **[pablotardio](mailto:pablotv30@gmail.com)**
 
 - ⚡ Fun fact **I like "empanadas". Hmm...is that a fun fact?**
 
