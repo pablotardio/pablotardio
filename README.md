@@ -93,19 +93,19 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25">
 <!-- Framework -->
 <img src="https://img.shields.io/badge/Flutter-0981d6?style=for-the-badge&logo=flutter&logoColor=white" height="25">
-
-
-<h3 align="center">Graphics Design</h3>
-
+</p>
 <br>
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-b5009a.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
-<img alt="Figma" src="https://img.shields.io/badge/Figma-e03154.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-<img  src="https://img.shields.io/badge/Framer-000000.svg?style=for-the-badge&logo=framer&logoColor=blue"/>
+<h3 align="left">Graphics Design</h3>
+<p align="center"><!-- Programming Language -->
+
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-black.svg?style=for-the-badge&logo=adobephotoshop&logoColor=2331A8FF" height="25"/>
+<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" height="25"/>
+<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-b5009a.svg?style=for-the-badge&logo=adobexd&logoColor=white" height="25"/>
+<img alt="Figma" src="https://img.shields.io/badge/Figma-e03154.svg?style=for-the-badge&logo=figma&logoColor=white" height="25"/>
+<img  src="https://img.shields.io/badge/Framer-000000.svg?style=for-the-badge&logo=framer&logoColor=blue" height="25"/>
 
 
-
+</p>
 
 
 
@@ -118,7 +118,7 @@ Here are some ideas to get you started:
 
 
 
-</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablotardio&show_icons=true&theme=dark&title_color=fff5f5&text_color=ffffff&bg_color=7c0e0e&locale=en" alt="pablotardio" /></p>
 
