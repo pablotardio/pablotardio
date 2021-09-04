@@ -33,7 +33,7 @@ Credits for every service I used
 | Type | Method |
 |---------------|------------------------------------------------------------------------------------------------------------|
 | ICON With Text| https://img.shields.io/badge/HereText-FF9800.svg?&style=for-the-badge&logo=HereIconName&logoColor=white |
-| Github Stats | https://github-readme-stats.vercel.app/api?username=HereUsername&show_icons=true |
+| Github Stats | https://github-readme-stats.vercel.app/api?username=HereUsername&show_icons=true , https://github.com/anuraghazra/github-readme-stats |
 | Profile View | https://komarev.com/ghpvc/?username=HereUsername |
 <!-- | Auto Generate | https://rahuldkjain.github.io/gh-profile-readme-generator/ | -->
 | Visitor Counts| https://github.com/antonkomarev/github-profile-views-counter.

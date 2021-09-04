@@ -120,6 +120,6 @@ Here are some ideas to get you started:
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablotardio&show_icons=true&theme=dark&title_color=fff5f5&text_color=ffffff&bg_color=7c0e0e&locale=en" alt="pablotardio" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablotardio&show_icons=true&count_private=true&theme=dark&title_color=fff5f5&text_color=ffffff&bg_color=DEG,660707,210000&locale=en" alt="pablotardio" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pablotardio&theme=dark" alt="pablotardio" /></p>
