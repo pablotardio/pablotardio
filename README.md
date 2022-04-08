@@ -1,7 +1,7 @@
 <!-- ### Hi, you misterious user! 👋 I'm Pablo! -->
 
 <!-- -  🔭 I’m currently working on Web Development
--  🌱 I’m currently learning Native Android
+-  🌱 I’m currently learning React Best Practices
 -  👯 I’m looking to collaborate on Game Development
 -  📫 How to reach me: [pablotardio](mailto:pablotv30@gmail.com) :email:
 -  😄 Pronouns: He/Him
